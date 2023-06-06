@@ -14,8 +14,8 @@ Online (Zoom)
 - Tomoki Nakanishi (chief)
 - Hironori Oya
 
-# Lectures
+# Lecturers
 
-- Pierrick Bousseau (U. Georgia)
-- Roger Casals (UC Davis)
-- Magdalena Boos (Ruhr University Bochum)
+- [Pierrick Bousseau(U. Georgia)](https://sites.google.com/view/pierrick-bousseau) 
+- [Roger Casals (UC Davis)](https://www.math.ucdavis.edu/~casals/)
+- [Magdalena Boos (Ruhr University Bochum)](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/boos.html)
