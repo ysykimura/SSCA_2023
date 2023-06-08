@@ -17,5 +17,7 @@ Online (Zoom)
 # Lecturers
 
 - [Pierrick Bousseau(U. Georgia)](https://sites.google.com/view/pierrick-bousseau) 
-- [Roger Casals (UC Davis)](https://www.math.ucdavis.edu/~casals/)
 - [Magdalena Boos (Ruhr University Bochum)](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/boos.html)
+- [Roger Casals (UC Davis)](https://www.math.ucdavis.edu/~casals/)
+- [Naoki Fujita (Kagoshima)](https://nfujita-math.github.io/)
+- [Tsukasa Ishibashi (Tohoku)](https://sites.google.com/view/tsukasa-ishibashi/home)
