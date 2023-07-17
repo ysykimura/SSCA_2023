@@ -6,7 +6,9 @@ title: Summer School on Cluster Algebras 2023
 August 21(Mon)--23(Wed), 2023
 
 # Venue
-[Online (Zoom)](https://omu-ac-jp.zoom.us/meeting/register/tJMqceChqzwsGNWOgJNGpu0lgxhQoYNdXWxO)
+Online (Zoom)
+
+For the registration, please go to the [Zoom registartion page](https://omu-ac-jp.zoom.us/meeting/register/tJMqceChqzwsGNWOgJNGpu0lgxhQoYNdXWxO)
 
 # Organizers
 - Osamu Iyama
