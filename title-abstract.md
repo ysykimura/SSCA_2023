@@ -9,6 +9,24 @@ title: Title and Abstract
 # Title and Abstract
 
 ## Magdalena Boos (Ruhr University Bochum)
+### An introduction to symmetric quiver representations
+Abstract: When thinking about quiver representations, the fact that the theory 
+only deals with type A setups (i.e. general linear groups and their Lie 
+algebras) can be viewed as a drawback.
+
+Therefore, Derksen and Weyman introduced the notion of a symmetric 
+quiver in 2002 which allows considering classical analogues, so-called 
+symplectic or orthogonal representations (or symmetric quiver 
+representations). Symmetric quiver representations are collected in 
+so-called symmetric representation varieties which are acted on by 
+reductive groups via change of basis.
+
+We give an introduction to the subject, develop and motivate the theory 
+and discuss certain known results, focussing on the orbits of the 
+aforementioned group actions as well as their closures (which correspond 
+to degenerations). In particular, we present results obtained joint with 
+G. Cerulli Irelli.
+
 ## Pierrick Bousseau(U. Georgia)
 ## Roger Casals (UC Davis)
 ## Naoki Fujita (Kumamoto)
