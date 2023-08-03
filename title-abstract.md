@@ -29,6 +29,17 @@ G. Cerulli Irelli.
 
 ## Pierrick Bousseau(U. Georgia)
 ## Roger Casals (UC Davis)
+### Title Lecture 1: "Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology"
+
+Abstract Lecture 1: We will introduce the questions and geometric problems in symplectic topology that lead to considering cluster algebras. The goal in this first lecture is both to provide intuition for why cluster algebras arise in this area and to give a rigorous description of the commutative rings that appear. We will use motivating examples to help with the former objective. For the latter, we will translate rather elaborate categorical matters in symplectic topology into explicit descriptions of affine varieties, using standard Lie-theoretic language. This lecture will include a precise breakdown of the results known to date and a series of applications that follow from this interaction between 4D symplectic topology and cluster algebras.
+
+### Title Lecture 2: "Cluster algebras and symplectic topology II: Construction of cluster algebras via the microlocal theory of sheaves"
+
+Abstract Lecture 2: The main goal of this lecture is to show that the coordinate ring of any braid variety is a cluster algebra. The geometry motivated in the first lecture will guide the steps proof, with weaves and their sheaf quantizations being the central ingredient. We present the argument with the following structure. First, we explain how to use weaves to construct an upper cluster algebra structure on open Bott-Samelson varieties. Second, we construct upper cluster algebra structures on braid varieties from open Bott-Samelson varieties through a localization procedure. Finally, we show that these upper cluster algebras are locally acyclic and argue that cyclic rotation induces a quasi-cluster isomorphism.
+
+### Title Lecture 3: "Cluster algebras and symplectic topology III: Every cluster seed is induced by a Lagrangian filling"
+
+Abstract Lecture 3: The focus of this last lecture is to show that any cluster seed in the cluster algebras featured in the first two lectures can actually be constructed symplectic geometrically, i.e. it is induced by an embedded exact Lagrangian filling. The main new ingredient for this talk will be the construction of a new quiver with potential. This quiver with potential will be associated to certain collections of curves in surfaces. We will prove several invariance properties as well as its rigidity. In a sense, this talk establishes that the current map from 4D symplectic geometry, studying Lagrangian fillings, to cluster algebras in braid varieties, is surjective. We will also mention how many elements of the cluster modular group, including interesting braid group actions and the square of the Donaldson-Thomas transformation, can be constructed entirely through symplectic geometric means. This series of lectures will end with a list of natural follow-up questions on this topic.
 ## Naoki Fujita (Kumamoto)
 ### Toric degenerations and Newton-Okounkov bodies arising from cluster algebras
 Abstract: A toric degeneration is a flat degeneration of a projective variety to a toric variety, which can be used to apply the theory of toric varieties to other projective varieties. The theory of cluster algebras is useful to construct toric degenerations. Indeed, introducing the notion of positive polytopes, Gross-Hacking-Keel-Kontsevich [GHKK] gave a general framework to construct toric degenerations of compactified A-cluster varieties.
