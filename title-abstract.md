@@ -28,6 +28,8 @@ to degenerations). In particular, we present results obtained joint with
 G. Cerulli Irelli.
 
 ## Pierrick Bousseau(U. Georgia)
+### TBA
+
 ## Roger Casals (UC Davis)
 ### Title Lecture 1: "Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology"
 
