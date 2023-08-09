@@ -28,7 +28,9 @@ to degenerations). In particular, we present results obtained joint with
 G. Cerulli Irelli.
 
 ## Pierrick Bousseau(U. Georgia)
-### TBA
+### Mirror symmetry and enumerative geometry of cluster varieties
+
+Abstract: There are several viewpoints on mirror symmetry for cluster varieties. One of them is the Fock-Goncharov duality, defined combinatorially at the level of cluster seeds. Another one is the Gross-Siebert algebro-geometric construction of mirrors for arbitrary Calabi-Yau varieties and which can be in particular applied to cluster varieties. In the first two lectures, I will review these two perspectives and explain how to relate them. The third lecture will be devoted to enumerative geometry: I will describe how log Gromov—Witten invariants of cluster varieties, which play an important role in the Gross-Siebert mirror construction, are related to Donaldson-Thomas invariants of quivers with potentials. This is joint work with Hulya Arguz.
 
 ## Roger Casals (UC Davis)
 ### Title Lecture 1: "Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology"
