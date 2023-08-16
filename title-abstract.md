@@ -63,6 +63,21 @@ References:
 [RW] K. Rietsch and L. Williams, Newton-Okounkov bodies, cluster duality, and mirror symmetry for Grassmannians, Duke Math. J. 168 (2019), no. 18, 3437-3527.
 
 ## Tsukasa Ishibashi (Tohoku)
-### Title: Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems
-Abstract: The moduli space $\mathcal{A}_{G,\Sigma}$ of decorated twisted $G$-local systems on a marked surface $\Sigma$ has been introduced by Fock—Goncharov (2006). It admits a natural cluster $K_2$-structure: explicit cluster charts are given by Fock—Goncharov (2006) for type $A_n$; by Le (2019) for all classical types and $G_2$; and finally by Goncharov—Shen (2019 preprint) for general types, unifying the previous type-by-type constructions.  
-In this talk, I will review the construction of cluster charts following Goncharov—Shen. Time permitting, I will mention my joint work with Hironori Oya and Linhui Shen that shows $\mathscr{A}=\mathscr{U}$ for the cluster algebras arising from these moduli spaces and reveals their relation to the braid varieties.
+### Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems
+
+Abstract: The moduli space $\mathcal{A}_{G,\Sigma}$ of decorated twisted $G$-local systems on a marked surface $\Sigma$ has been introduced by Fock—Goncharov [FG06] as an ``algebro-geometric avatar” of the higher Teichm\"uller space. It admits a natural cluster $K_2$-structure: explicit cluster charts are given by Fock—Goncharov [FG06] for type $A_n$; by Le [Le19] for all classical types and $G_2$; and finally by Goncharov—Shen [GS19] for general types, unifying the previous type-by-type constructions. The resulting cluster $K_2$-variety is one of important examples that motivates the Fock—Goncharov duality conjecture.
+
+In the 1st lecture, I will review the geometry of the moduli space $\mathcal{A}_{G,\Sigma}$ and the construction of its cluster $K_2$-structure, following [GS19] and [IOS22]. “Wilson line” is a key geometric notion for the description of its function ring, which is an “arc version” of the monodromy (Wilson loop).
+
+In the 2nd lecture, I will focus on the polygon case, and explain how we can investigate the moduli space $\mathcal{A}_{G,\Sigma}$ via the interpolation of (decorated) flags with respect to a given reduced word of their w-distance. This is a common key notion to understand
+
+- the mutation sequence for a flip of decorated triangulation;
+- generalized minors of simple Wilson lines;
+- the relation to the braid varieties.
+
+### References:
+- [CGGLSS22] R. Casals, E. Gorsky, M. Gorsky, I. Le, L. Shen and J. Simental, *Cluster structures on braid varieties*, arXiv:2207.11607.
+- [FG06] V. V. Fock and A. B. Goncharov, *Moduli spaces of local systems and higher Teichm\"uller theory*, Publ. Math. Inst. Hautes \'Etudes Sci., \textbf{103} (2006), 1--211.
+- [GS19] A. B. Goncharov and L. Shen, *Quantum geometry of moduli spaces of local systems and representation theory*, arXiv:1904.10491.
+- [IOS22] T. Ishibashi, H. Oya and L. Shen, *$\mathscr{A}=\mathscr{U}$ for cluster algebras from moduli spaces of $G$-local systems*, arxiv:2202.03168; to appear in Advances in Mathematics.
+- [Le19] I. Le, *Cluster structures on higher Teichm\"uller spaces for classical groups*, Forum of Mathematics, Sigma \textbf{7} (2019) e13.
