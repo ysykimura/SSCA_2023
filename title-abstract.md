@@ -50,7 +50,7 @@ Abstract: A toric degeneration is a flat degeneration of a projective variety to
 
 A different approach is given by the theory of Newton-Okounkov bodies. A Newton-Okounkov body is a convex body constructed from a projective variety with an ample line bundle and with a higher rank valuation on the function field, which gives a systematic method of constructing toric degenerations of projective varieties. The notions of g-vectors and c-vectors in cluster algebras induce higher rank valuations, and we can systematically construct Newton-Okounkov bodies of compactified A-cluster varieties [FO] and of compactified X-cluster varieties [RW, BCMNC].
 
-In this lecture series, we study Newton-Okounkov bodies arising from cluster structures and discuss their relation with Gross-Hacking-Keel-Kontsevich's positive polytopes, following Bossinger-Cheung-Magee-N\'{a}jera Ch\'{a}vez [BCMNC] and my joint work [FO] with Hironori Oya.
+In this lecture series, we study Newton-Okounkov bodies arising from cluster structures and discuss their relation with Gross-Hacking-Keel-Kontsevich's positive polytopes, following Bossinger-Cheung-Magee-Nájera Chávez [BCMNC] and my joint work [FO] with Hironori Oya.
 
 References:
 
@@ -65,7 +65,7 @@ References:
 ## Tsukasa Ishibashi (Tohoku)
 ### Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems
 
-Abstract: The moduli space $\mathcal{A}_{G,\Sigma}$ of decorated twisted $G$-local systems on a marked surface $\Sigma$ has been introduced by Fock—Goncharov [FG06] as an ``algebro-geometric avatar” of the higher Teichm\"uller space. It admits a natural cluster $K_2$-structure: explicit cluster charts are given by Fock—Goncharov [FG06] for type $A_n$; by Le [Le19] for all classical types and $G_2$; and finally by Goncharov—Shen [GS19] for general types, unifying the previous type-by-type constructions. The resulting cluster $K_2$-variety is one of important examples that motivates the Fock—Goncharov duality conjecture.
+Abstract: The moduli space $\mathcal{A}_{G,\Sigma}$ of decorated twisted $G$-local systems on a marked surface $\Sigma$ has been introduced by Fock—Goncharov [FG06] as an ``algebro-geometric avatar” of the higher Teichmüller space. It admits a natural cluster $K_2$-structure: explicit cluster charts are given by Fock—Goncharov [FG06] for type $A_n$; by Le [Le19] for all classical types and $G_2$; and finally by Goncharov—Shen [GS19] for general types, unifying the previous type-by-type constructions. The resulting cluster $K_2$-variety is one of important examples that motivates the Fock—Goncharov duality conjecture.
 
 In the 1st lecture, I will review the geometry of the moduli space $\mathcal{A}_{G,\Sigma}$ and the construction of its cluster $K_2$-structure, following [GS19] and [IOS22]. “Wilson line” is a key geometric notion for the description of its function ring, which is an “arc version” of the monodromy (Wilson loop).
 
@@ -77,7 +77,7 @@ In the 2nd lecture, I will focus on the polygon case, and explain how we can inv
 
 ### References:
 - [CGGLSS22] R. Casals, E. Gorsky, M. Gorsky, I. Le, L. Shen and J. Simental, *Cluster structures on braid varieties*, arXiv:2207.11607.
-- [FG06] V. V. Fock and A. B. Goncharov, *Moduli spaces of local systems and higher Teichm\"uller theory*, Publ. Math. Inst. Hautes \'Etudes Sci., \textbf{103} (2006), 1--211.
+- [FG06] V. V. Fock and A. B. Goncharov, *Moduli spaces of local systems and higher Teichmüller theory*, Publ. Math. Inst. Hautes \'Etudes Sci., **103** (2006), 1--211.
 - [GS19] A. B. Goncharov and L. Shen, *Quantum geometry of moduli spaces of local systems and representation theory*, arXiv:1904.10491.
 - [IOS22] T. Ishibashi, H. Oya and L. Shen, *$\mathscr{A}=\mathscr{U}$ for cluster algebras from moduli spaces of $G$-local systems*, arxiv:2202.03168; to appear in Advances in Mathematics.
-- [Le19] I. Le, *Cluster structures on higher Teichm\"uller spaces for classical groups*, Forum of Mathematics, Sigma \textbf{7} (2019) e13.
+- [Le19] I. Le, *Cluster structures on higher Teichmüller spaces for classical groups*, Forum of Mathematics, Sigma **7** (2019) e13.
