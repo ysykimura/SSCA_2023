@@ -27,4 +27,4 @@ For the registration, please go to the [Zoom registartion page](https://omu-ac-j
 
 # [Title and Abstract](title-abstract.md)
 
-# [Program](program-slides.md)
+# [Program and Slides](program-slides.md)
