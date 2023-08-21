@@ -19,7 +19,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 10:30~11:30, **Roger Casals**, *Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology*
 
-14:30~15:30, **Tsukasa Ishibashi**, *Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (1)*
+14:30~15:30, **Tsukasa Ishibashi**, [*Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (1)*](slides/Ishibashi_1.pdf)
 
 16:00~17:00, **Magdalena Boos**, *An introduction to symmetric quiver representations (1)*
 
