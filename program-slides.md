@@ -21,7 +21,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 14:30~15:30, **Tsukasa Ishibashi**, [*Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (1)*](slides/Ishibashi_1_corrected.pdf)
 
-16:00~17:00, **Magdalena Boos**, *An introduction to symmetric quiver representations (1)*
+16:00~17:00, **Magdalena Boos**, [*An introduction to symmetric quiver representations (1)*](slides/Boos_1.pdf)
 
 ## 8/22 (Tuesday)
 9:00~10:00 **Pierric Bousseau**, *Mirror symmetry and enumerative geometry of cluster varieties (2)*
