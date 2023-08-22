@@ -17,7 +17,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 ## 8/21 (Monday)
 9:00~10:00 **Pierric Bousseau**, [*Mirror symmetry and enumerative geometry of cluster varieties (1)*](slides/Bousseau_1.pdf)
 
-10:30~11:30, **Roger Casals**, *Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology*
+10:30~11:30, **Roger Casals**, [*Cluster algebras and symplectic topology I: How cluster algebras arise in 4D symplectic topology*](slides/Casals_1.pdf)
 
 14:30~15:30, **Tsukasa Ishibashi**, [*Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (1)*](slides/Ishibashi_1_corrected.pdf)
 
@@ -26,7 +26,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 ## 8/22 (Tuesday)
 9:00~10:00 **Pierric Bousseau**, [*Mirror symmetry and enumerative geometry of cluster varieties (2)*](slides/Bousseau_2.pdf)
 
-10:30~11:30, **Roger Casals**, *Cluster algebras and symplectic topology II: Construction of cluster algebras via the microlocal theory of sheaves*
+10:30~11:30, **Roger Casals**, [*Cluster algebras and symplectic topology II: Construction of cluster algebras via the microlocal theory of sheaves*](slides/Casals_2.pdf)
 
 13:00~14:00, **Naoki Fujita**, *Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (1)*
 
