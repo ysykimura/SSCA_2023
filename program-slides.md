@@ -30,7 +30,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 13:00~14:00, **Naoki Fujita**, [*Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (1)*](slides/Fujita_1.pdf)
 
-14:30~15:30, **Tsukasa Ishibashi**, *Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (2)*
+14:30~15:30, **Tsukasa Ishibashi**, [*Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (2)*](slides/Ishibashi_2.pdf)
 
 16:00~17:00, **Magdalena Boos**, *An introduction to symmetric quiver representations (2)*
 
