@@ -28,7 +28,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 10:30~11:30, **Roger Casals**, [*Cluster algebras and symplectic topology II: Construction of cluster algebras via the microlocal theory of sheaves*](slides/Casals_2.pdf)
 
-13:00~14:00, **Naoki Fujita**, *Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (1)*
+13:00~14:00, **Naoki Fujita**, [*Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (1)*](slides/Fujita_1.pdf)
 
 14:30~15:30, **Tsukasa Ishibashi**, *Cluster $K_2$-structure on the moduli space of decorated twisted $G$-local systems (2)*
 
