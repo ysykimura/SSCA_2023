@@ -39,6 +39,6 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 10:30~11:30, **Roger Casals**, [*Cluster algebras and symplectic topology III: Every cluster seed is induced by a Lagrangian filling*](slides/Casals_3.pdf)
 
-14:30~15:30, **Naoki Fujita**, *Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (2)*
+14:30~15:30, **Naoki Fujita**, [*Toric degenerations and Newton-Okounkov bodies arising from cluster algebras (2)*](slides/Fujita_2.pdf)
 
 16:00~17:00, **Magdalena Boos**, *An introduction to symmetric quiver representations (3)*
