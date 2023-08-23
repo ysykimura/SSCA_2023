@@ -35,7 +35,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 16:00~17:00, **Magdalena Boos**, [*An introduction to symmetric quiver representations (2)*](slides/Boos_2.pdf)
 
 ## 8/23 (Wednesday)
-9:00~10:00 **Pierric Bousseau**, *Mirror symmetry and enumerative geometry of cluster varieties (3)*
+9:00~10:00 **Pierric Bousseau**, [*Mirror symmetry and enumerative geometry of cluster varieties (3)*](slides/Bousseau_3.pdf)
 
 10:30~11:30, **Roger Casals**, *Cluster algebras and symplectic topology III: Every cluster seed is induced by a Lagrangian filling*
 
